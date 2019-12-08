@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `My blog`,
-    description: `A blog about frontend development and other cool stuff.`,
+    title: `Victor Antonio`,
+    description: `Atualmente trabalhando como Solutions Assistant na everis Brasil,
+    apaixonado por música e tecnologia.`,
     author: `@MrS4w`,
+    position: `Desenvolvedor`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

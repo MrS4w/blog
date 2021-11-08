@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Victor Antonio`,
-    description: `Atualmente trabalhando como Solutions Assistant na everis Brasil,
+    description: `Atualmente trabalhando como Desenvolvedor Front-end na Accenture Brasil,
     apaixonado por música e tecnologia.`,
     author: `@MrS4w`,
     position: `Desenvolvedor`,
